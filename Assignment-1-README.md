@@ -1,0 +1,2 @@
+# Assignment 1: Alice-in-Wonderland
+For Assignment 1, I used the online Markdown editor Daligner. I worked with the sample text Alice’s Adventures in Wonderland provided by the professor in class. First, I used Daligner to convert the first chapter, “Down the Rabbit-Hole,” into Markdown format. Afterwards, I explored the main features of GitHub, created a repository, and published the Markdown file.
