@@ -1,6 +1,6 @@
 This is my first time learning to use GitHub. I created a repository that includes three assignments.
 # Assignment 1
-For Assignment 1, I used the online Markdown editor Daligner. I worked with the sample text Alice’s Adventures in Wonderland provided by the professor in class. First, I used Daligner to convert the first chapter, “Down the Rabbit-Hole,” into Markdown format. Afterwards, I explored the main features of GitHub, created a repository, and published the Markdown file.
+For Assignment 1, I used the online Markdown editor Dillinger. I worked with the sample text Alice’s Adventures in Wonderland provided by the professor in class. First, I used Daligner to convert the first chapter, “Down the Rabbit-Hole,” into Markdown format. Afterwards, I explored the main features of GitHub, created a repository, and published the Markdown file.
 
 Sources: Lewis Carroll, Alice’s Adventures in Wonderland
 # Assignment 2
